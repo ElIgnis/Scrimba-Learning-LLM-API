@@ -1,4 +1,4 @@
-﻿import reactImg  from "../assets/images/react.svg";
+﻿import reactImg  from "../../assets/images/react.svg";
 
 export default function Header() {
     return (
