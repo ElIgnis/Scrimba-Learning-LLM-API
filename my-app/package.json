@@ -8,7 +8,6 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "start": "cd C:/Users/Altzerwind/Desktop/LearnReact/Project_1/my-app
   },
   "dependencies": {
     "@huggingface/inference": "^4.13.4",
